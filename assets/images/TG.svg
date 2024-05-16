@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="4410.835 0 8919.329 15919" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="8279.87" y1="6399.27" x2="8567.74" y2="7280.81">
+      <stop offset="0" stop-opacity="1" stop-color="#333333"/>
+      <stop offset="0.3882" stop-opacity="1" stop-color="#999999"/>
+      <stop offset="1" stop-opacity="1" stop-color="white"/>
+    </linearGradient>
+  </defs>
+  <g id="Capa_x0020_1">
+    <g id="_2275327160192" transform="matrix(1, 0, 0, 1, 13440.46875, 1256.049194)">
+      <g transform="matrix(1.605062, 0, 0, 1.605062, -20356.556641, -1256.051636)">
+        <g>
+          <path fill="url(#id0)" fill-rule="nonzero" d="M9668 6235l-882 -2473 -363 0c-686,0 -1244,557 -1244,1244l0 3668c0,687 557,1244 1244,1244 687,0 1244,-557 1244,-1244l0 -671 1 -1768z"/>
+          <path fill="#FF9933" fill-rule="nonzero" d="M7179 6906c0,-591 543,-671 1298,-671l2893 0c686,0 1244,-533 1244,-1234 0,-655 -506,-1192 -1149,-1241l0 0c-10,0 -21,-1 -31,-2l0 0c-11,0 -21,0 -32,-1l0 0c-11,0 -21,0 -32,0l-2947 0c-696,0 -1244,569 -1244,1244l0 1905z"/>
+        </g>
+        <circle fill="#FF9933" cx="8423" cy="1366" r="1366"/>
+      </g>
+    </g>
+  </g>
+</svg>
